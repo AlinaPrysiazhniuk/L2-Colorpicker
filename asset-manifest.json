@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/L2-Colorpicker/static/css/main.b5768f72.css",
-    "main.js": "/L2-Colorpicker/static/js/main.b55d776f.js",
+    "main.css": "/L2-Colorpicker/static/css/main.c40bd7fe.css",
+    "main.js": "/L2-Colorpicker/static/js/main.a6e5a75c.js",
     "index.html": "/L2-Colorpicker/index.html",
-    "main.b5768f72.css.map": "/L2-Colorpicker/static/css/main.b5768f72.css.map",
-    "main.b55d776f.js.map": "/L2-Colorpicker/static/js/main.b55d776f.js.map"
+    "main.c40bd7fe.css.map": "/L2-Colorpicker/static/css/main.c40bd7fe.css.map",
+    "main.a6e5a75c.js.map": "/L2-Colorpicker/static/js/main.a6e5a75c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5768f72.css",
-    "static/js/main.b55d776f.js"
+    "static/css/main.c40bd7fe.css",
+    "static/js/main.a6e5a75c.js"
   ]
 }
