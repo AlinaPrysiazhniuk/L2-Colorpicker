@@ -1,6 +1,7 @@
 .ColorPicker {
   width: 400px;
   padding: 10px;
+  margin: 40px;
   border: 1px solid black;
 }
 
@@ -20,5 +21,5 @@
 }
 
 .ColorPicker__option--active {
-  transform: scale(1.1);
+  border: 1px solid yellow;
 }

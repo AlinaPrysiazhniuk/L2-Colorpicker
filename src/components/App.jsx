@@ -2,7 +2,7 @@ import React from 'react';
 import { ColorPicker } from './ColorPicker/ColorPicker';
 
 const colorPickerOptions = [
-  { label: 'red', color: '#44336' },
+  { label: 'red', color: '#F44336' },
   { label: 'green', color: '#4CAF50' },
   { label: 'blue', color: '#2196F3' },
   { label: 'grey', color: '#607D8B' },
